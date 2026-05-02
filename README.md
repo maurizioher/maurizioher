@@ -1,5 +1,8 @@
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1eaf89d3-aa8d-46fc-8cd4-ec723fc199ee" width="100%" alt="1CUS Bioinformatic Banner">
+  
+</p>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Maurizio, an Spanish junior Bioinformatician</h2>
 
 
